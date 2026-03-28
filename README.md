@@ -37,8 +37,3 @@ Aapka Naam —https://github.com/ahmedmirza119-cell
 
 ---
 
-## 🏷️ Topics / Tags (Repo mein add karo)
-
-GitHub pe repo open karein → **gear icon ⚙️** → Topics mein yeh daalo:
-```
-python  pandas  excel  data-cleaning  data-analysis  openpyxl  beginner  portfolio
